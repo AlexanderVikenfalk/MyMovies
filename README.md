@@ -22,8 +22,8 @@ This first react project is a small web app that fetches an array of movies from
 
 #### Screenshots ####
 ![default](https://user-images.githubusercontent.com/16190870/30914878-53ad17c0-a395-11e7-9278-1ce0ff1e889d.png)
-![Filter on genre](https://imgur.com/a/7Ccdk)
-![Filter on title](https://imgur.com/a/CR9OA)
+![filterongenre](https://user-images.githubusercontent.com/16190870/30914932-7f4257e2-a395-11e7-9ffd-8f6ad4b49956.png)
+![filteronname](https://user-images.githubusercontent.com/16190870/30914977-96016720-a395-11e7-8a5e-03c9d08c36f0.png)
 
 #### Other remarks ####
 As usual there are a lot of things I would like to improve and work on but at least I got to try my hand at using React which was the puprose of the excersise.
