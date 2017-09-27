@@ -1,0 +1,31 @@
+{
+  "name": "movie-api",
+  "version": "0.1.0",
+  "description": "This first react project is a small web app that fetches an array of movies from an API a returns a list that's controlled by the user via real time filtering",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "bootstrap-3-card": "^0.2.0",
+    "eslint": "^4.7.2",
+    "react": "^15.3.0",
+    "react-bootstrap": "^0.31.3",
+    "react-dom": "^15.3.0",
+    "react-scripts": "1.0.13",
+    "react-transition-group": "^1.1.2",
+    "reactstrap": "^4.8.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderVikenfalk/MyMovies.git"
+},
+"keywords": [
+  "javascript",
+  "react"
+],
+"author": "Alexander Vikenfalk"
+}
