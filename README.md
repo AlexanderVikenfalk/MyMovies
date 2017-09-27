@@ -21,7 +21,7 @@ This first react project is a small web app that fetches an array of movies from
 [LinkedIn](https://de.linkedin.com/in/alexander-vikenfalk-6b993b42)
 
 #### Screenshots ####
-![Default order](https://imgur.com/a/VznIX)
+![default](https://user-images.githubusercontent.com/16190870/30914878-53ad17c0-a395-11e7-9278-1ce0ff1e889d.png)
 ![Filter on genre](https://imgur.com/a/7Ccdk)
 ![Filter on title](https://imgur.com/a/CR9OA)
 
