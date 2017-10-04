@@ -18,8 +18,6 @@ This first react project is a small web app that fetches an array of movies from
 4.  Open your web browser and navigate to localhost:3000
 5.  Type something in the searchbox to filter the list of movies (search-function is case sensetive and the movies have their titles in Swedish). OR try filtering the list after genres via the dropdown to the right. 
 
-[LinkedIn](https://de.linkedin.com/in/alexander-vikenfalk-6b993b42)
-
 #### Screenshots ####
 ![default](https://user-images.githubusercontent.com/16190870/30914878-53ad17c0-a395-11e7-9278-1ce0ff1e889d.png)
 ![filterongenre](https://user-images.githubusercontent.com/16190870/30914932-7f4257e2-a395-11e7-9ffd-8f6ad4b49956.png)
@@ -27,3 +25,5 @@ This first react project is a small web app that fetches an array of movies from
 
 #### Other remarks ####
 As usual there are a lot of things I would like to improve and work on but at least I got to try my hand at using React which was the puprose of the excersise.
+
+[LinkedIn](https://de.linkedin.com/in/alexander-vikenfalk-6b993b42)
